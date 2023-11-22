@@ -36,3 +36,4 @@
 - [Код телеграм бота](botfortalant.py)
 - [Дополнение с подбором синонимов слов](Synonyms.ipynb)
 - [Код для графиков и сравнений](graphs.ipynb)
+- <https://github.com/d0rj/Synonyms?ysclid=lod2mi1z2m155171868> ссылка на скачивание синонимов для дополнения
